@@ -34,6 +34,7 @@ Your contributions are welcome and appreciated!
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
+  - [2020 and before](#2020 and before)
 - [Blog Posts](#blog-posts)
 - [Contributing](#contributing)
 - [License](#license)
