@@ -1,5 +1,5 @@
 
-# 🧠 Awesome Synthetic Data Education
+# 🧠 Awesome Synthetic Data Application for Education
 
 A curated collection of research papers, frameworks, and resources on **synthetic data applications in education and learning**.  
 This repository aims to provide a comprehensive overview of how synthetic data is used for learning, educational analytics.
