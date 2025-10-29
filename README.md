@@ -101,7 +101,7 @@ If you'd like to add new papers, fix broken links, or improve formatting, please
 
 ## 📄 License
 
-This repository is released under the [MIT License](LICENSE).
+This repository is released under the [Apache-2.0 license](LICENSE).
 
 ---
 
