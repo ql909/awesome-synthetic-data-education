@@ -58,18 +58,23 @@ Tabular Data Generation and Evaluation in Learning Analytics. In The 14th Learni
 18–22, 2024, Kyoto, Japan. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3636555.3636921
 
 ### 2023
-*(To be added)*
+- Chen Zhan, Oscar Blessed Deho, Xuwei Zhang, Srecko Joksimovic, and Maarten de Laat. 2023. Synthetic data generator for student data serving learning
+analytics: A comparative study. Learning Letters 1, 5 (2023), 5–5. DOI: https://doi.org/10.59453/KHZW9006
 
 ### 2022
-*(To be added)*
+- Jill-Jênn Vie, Tomas Rigaux, and Sein Minn. 2022. Privacy-Preserving Synthetic Educational Data Generation. In Springer eBooks, 393–406. DOI:
+https://doi.org/10.1007/978-3-031-16290-9_29
+- 
 
 ### 2021
-*(To be added)*
+- Peter Bautista and Paul Salvador Inventado. 2021. Protecting Student Privacy with Synthetic Data from Generative Adversarial Networks. Springer
+eBooks (2021), 66–70. DOI: https://doi.org/10.1007/978-3-030-78270-2_11
 
 ### 2020 and before
-Alan M. Berg, Stefan T. Mol, Gábor Kismihók, and Niall Sclater. 2016. The role of a reference synthetic data generator within the field of learning
+- Alan M. Berg, Stefan T. Mol, Gábor Kismihók, and Niall Sclater. 2016. The role of a reference synthetic data generator within the field of learning
 analytics. Journal of Learning Analytics 3, 1 (2016), 107–128. DOI: https://doi.org/10.18608/jla.2016.31.7
-
+- Mohsen Dorodchi, Erfan Al-Hossami, A L Benedict, and Elise Demeter. 2019. Using Synthetic Data Generators to Promote Open Science in Higher
+Education Learning Analytics. In 2019 IEEE International Conference on Big Data (Big Data). DOI: https://doi.org/10.1109/bigdata47090.2019.9006475
 ---
 
 ## 📚 Surveys and Position Papers
