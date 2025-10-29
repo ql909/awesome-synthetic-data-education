@@ -47,10 +47,15 @@ Your contributions are welcome and appreciated!
 ## 📄 Papers
 
 ### 2025
-*(To be added)*
+
+Liu, Q., Deho, O., Vadiee, F., Khalil, M., Joksimovic, S., & Siemens, G. (2025). Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms. *arXiv*. https://doi.org/10.48550/arXiv.2501.01785
+
+Liu, Q., Shakya, R., Jovanovic, J., Khalil, M., & de la Hoz-Ruiz, J. (2025). Ensuring privacy through synthetic data generation in education. British Journal of Educational Technology. Advance online publication. https://doi.org/10.1111/bjet.13576
 
 ### 2024
-*(To be added)*
+Qinyi Liu, Mohammad Khalil, Ronas Shakya, and Jelena Jovanovic. 2024. Scaling While Privacy Preserving: A Comprehensive Synth etic
+Tabular Data Generation and Evaluation in Learning Analytics. In The 14th Learning Analytics and Knowledge Conference (LAK ’24), March
+18–22, 2024, Kyoto, Japan. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3636555.3636921
 
 ### 2023
 *(To be added)*
@@ -60,6 +65,10 @@ Your contributions are welcome and appreciated!
 
 ### 2021
 *(To be added)*
+
+### 2020 and before
+Alan M. Berg, Stefan T. Mol, Gábor Kismihók, and Niall Sclater. 2016. The role of a reference synthetic data generator within the field of learning
+analytics. Journal of Learning Analytics 3, 1 (2016), 107–128. DOI: https://doi.org/10.18608/jla.2016.31.7
 
 ---
 
