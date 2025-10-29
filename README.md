@@ -10,10 +10,8 @@ This repository aims to provide a comprehensive overview of how synthetic data i
 
 As of the last commit:
 
-- 📝 **Papers:** xx  
-- 📚 **Surveys and Position Papers:** xx 
-- 🧰 **Frameworks:** xx
-- 📰 **Blog Posts:** xx
+- 📝 **Papers:** 12  
+- 📰 **Blog Posts:** 5
 
 ---
 
@@ -36,8 +34,6 @@ Your contributions are welcome and appreciated!
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
-- [Surveys and Position Papers](#surveys-and-position-papers)
-- [Frameworks](#frameworks)
 - [Blog Posts](#blog-posts)
 - [Contributing](#contributing)
 - [License](#license)
@@ -84,22 +80,23 @@ eBooks (2021), 66–70. DOI: https://doi.org/10.1007/978-3-030-78270-2_11
 ### 2020 and before
 - Alan M. Berg, Stefan T. Mol, Gábor Kismihók, and Niall Sclater. 2016. The role of a reference synthetic data generator within the field of learning
 analytics. Journal of Learning Analytics 3, 1 (2016), 107–128. DOI: https://doi.org/10.18608/jla.2016.31.7
+
 - Mohsen Dorodchi, Erfan Al-Hossami, A L Benedict, and Elise Demeter. 2019. Using Synthetic Data Generators to Promote Open Science in Higher
 Education Learning Analytics. In 2019 IEEE International Conference on Big Data (Big Data). DOI: https://doi.org/10.1109/bigdata47090.2019.9006475
 ---
 
-## 📚 Surveys and Position Papers
-*(List here)*
-
----
-
-## 🧰 Frameworks
-*(List here)*
-
----
 
 ## 📰 Blog Posts
-*(List here)*
+
+- UK Data Service. (2023, August 18). Not real but really useful: Synthetic data – a cost-benefit analysis of its practical value. UK Data Service Blog. https://blog.ukdataservice.ac.uk/not-real-but-really-useful-synthetic-data-a-cost-benefit-analysis-of-its-practical-value/
+  
+- Glassbury, T. (2024, February 10). The double-edged sword: Synthetic data and the ethics of AI in education. Glassbury Blog. https://www.glassbury.net/blog/the-double-edged-sword-synthetic-data-and-the-ethics-of-ai-in-education
+  
+- Chawda, T. (2024, March 22). Synthetic data in education: Privacy-friendly EdTech. LinkedIn Articles. https://www.linkedin.com/pulse/synthetic-data-education-privacy-friendly-edtech-tushar-chawda-6xapf
+
+- Hugging Face. (2024, May 12). Introducing the synthetic data generator: Build datasets with natural language. Hugging Face Blog. https://huggingface.co/blog/synthetic-data-generator
+  
+- Netguru. (2025, January 5). Synthetic data: Revolutionizing modern AI development in 2025. Netguru Blog. https://www.netguru.com/blog/synthetic-data
 
 ---
 
