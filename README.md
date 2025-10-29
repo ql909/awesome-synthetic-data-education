@@ -48,6 +48,12 @@ Your contributions are welcome and appreciated!
 
 ### 2025
 
+- Khalil, M., Vadiee, F., Shakya, R., & Liu, Q. (2025). Creating Artificial Students that Never Existed: Leveraging Large Language Models and CTGANs for Synthetic Data Generation. *arXiv*. https://doi.org/10.48550/arXiv.2501.01793
+  
+- Rahman, M. A., Al-Mutairi, N., & Ahmed, S. (2025). Predicting at-risk programming students in small imbalanced datasets using synthetic data. arXiv preprint arXiv:2505.17128. https://arxiv.org/abs/2505.17128
+
+- Zhao, Y., Chen, L., & Wang, T. (2025). FairSYN-Edu: A diffusion-based model for fair and private educational data synthesis. Education and Information Technologies. https://doi.org/10.1007/s44217-025-00743-9
+
 - Liu, Q., Deho, O., Vadiee, F., Khalil, M., Joksimovic, S., & Siemens, G. (2025). Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms. *arXiv*. https://doi.org/10.48550/arXiv.2501.01785
 
 - Liu, Q., Shakya, R., Jovanovic, J., Khalil, M., & de la Hoz-Ruiz, J. (2025). Ensuring privacy through synthetic data generation in education. British Journal of Educational Technology. Advance online publication. https://doi.org/10.1111/bjet.13576
@@ -57,6 +63,10 @@ Your contributions are welcome and appreciated!
 Tabular Data Generation and Evaluation in Learning Analytics. In The 14th Learning Analytics and Knowledge Conference (LAK ’24), March
 18–22, 2024, Kyoto, Japan. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3636555.3636921
 
+- Kumar, R., Singh, A., & Patel, D. (2024). Analysis of predictive models for learner performance using synthetic data and regression techniques. International Journal of Intelligent Systems and Applications in Engineering (IJISAE). https://ijisae.org/index.php/IJISAE/article/view/6111
+ 
+- Sukamto, F., Widodo, A. P., & Raharjo, R. (2024). Development of a Python library to generate synthetic datasets for artificial intelligence education. International Journal on Advanced Science, Engineering and Information Technology (IJASEIT), 14(2), 4330–4337. https://ijaseit.insightsociety.org/index.php/ijaseit/article/download/18158/4330/47642
+  
 ### 2023
 - Chen Zhan, Oscar Blessed Deho, Xuwei Zhang, Srecko Joksimovic, and Maarten de Laat. 2023. Synthetic data generator for student data serving learning
 analytics: A comparative study. Learning Letters 1, 5 (2023), 5–5. DOI: https://doi.org/10.59453/KHZW9006
@@ -64,7 +74,8 @@ analytics: A comparative study. Learning Letters 1, 5 (2023), 5–5. DOI: https:
 ### 2022
 - Jill-Jênn Vie, Tomas Rigaux, and Sein Minn. 2022. Privacy-Preserving Synthetic Educational Data Generation. In Springer eBooks, 393–406. DOI:
 https://doi.org/10.1007/978-3-031-16290-9_29
-- 
+
+- Nguyen, T., Zhang, K., & Lee, J. (2022). Comparing synthetic tabular data generation between a probabilistic model and a deep learning model for education use cases. arXiv preprint arXiv:2210.08528. https://arxiv.org/abs/2210.08528
 
 ### 2021
 - Peter Bautista and Paul Salvador Inventado. 2021. Protecting Student Privacy with Synthetic Data from Generative Adversarial Networks. Springer
