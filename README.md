@@ -65,6 +65,8 @@ Tabular Data Generation and Evaluation in Learning Analytics. In The 14th Learni
  
 - Sukamto, F., Widodo, A. P., & Raharjo, R. (2024). Development of a Python library to generate synthetic datasets for artificial intelligence education. International Journal on Advanced Science, Engineering and Information Technology (IJASEIT), 14(2), 4330–4337. https://ijaseit.insightsociety.org/index.php/ijaseit/article/download/18158/4330/47642
   
+- Sonkar, S., Chen, X., Le, M., Liu, N., Mallick, D. B., & Baraniuk, R. (2024). Code soliloquies for accurate calculations in large language models. In Proceedings of the 14th Learning Analytics and Knowledge Conference (pp. 828–835). https://doi.org/10.1145/3636555.3636889
+  
 ### 2023
 - Chen Zhan, Oscar Blessed Deho, Xuwei Zhang, Srecko Joksimovic, and Maarten de Laat. 2023. Synthetic data generator for student data serving learning
 analytics: A comparative study. Learning Letters 1, 5 (2023), 5–5. DOI: https://doi.org/10.59453/KHZW9006
