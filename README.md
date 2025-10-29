@@ -48,12 +48,12 @@ Your contributions are welcome and appreciated!
 
 ### 2025
 
-Liu, Q., Deho, O., Vadiee, F., Khalil, M., Joksimovic, S., & Siemens, G. (2025). Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms. *arXiv*. https://doi.org/10.48550/arXiv.2501.01785
+- Liu, Q., Deho, O., Vadiee, F., Khalil, M., Joksimovic, S., & Siemens, G. (2025). Can Synthetic Data be Fair and Private? A Comparative Study of Synthetic Data Generation and Fairness Algorithms. *arXiv*. https://doi.org/10.48550/arXiv.2501.01785
 
-Liu, Q., Shakya, R., Jovanovic, J., Khalil, M., & de la Hoz-Ruiz, J. (2025). Ensuring privacy through synthetic data generation in education. British Journal of Educational Technology. Advance online publication. https://doi.org/10.1111/bjet.13576
+- Liu, Q., Shakya, R., Jovanovic, J., Khalil, M., & de la Hoz-Ruiz, J. (2025). Ensuring privacy through synthetic data generation in education. British Journal of Educational Technology. Advance online publication. https://doi.org/10.1111/bjet.13576
 
 ### 2024
-Qinyi Liu, Mohammad Khalil, Ronas Shakya, and Jelena Jovanovic. 2024. Scaling While Privacy Preserving: A Comprehensive Synth etic
+- Qinyi Liu, Mohammad Khalil, Ronas Shakya, and Jelena Jovanovic. 2024. Scaling While Privacy Preserving: A Comprehensive Synth etic
 Tabular Data Generation and Evaluation in Learning Analytics. In The 14th Learning Analytics and Knowledge Conference (LAK ’24), March
 18–22, 2024, Kyoto, Japan. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3636555.3636921
 
