@@ -10,7 +10,7 @@ This repository aims to provide a comprehensive overview of how synthetic data i
 
 As of the last commit:
 
-- 📝 **Papers:** 12  
+- 📝 **Papers:** 15  
 - 📰 **Blog Posts:** 5
 
 ---
@@ -66,6 +66,10 @@ Tabular Data Generation and Evaluation in Learning Analytics. In The 14th Learni
 - Sukamto, F., Widodo, A. P., & Raharjo, R. (2024). Development of a Python library to generate synthetic datasets for artificial intelligence education. International Journal on Advanced Science, Engineering and Information Technology (IJASEIT), 14(2), 4330–4337. https://ijaseit.insightsociety.org/index.php/ijaseit/article/download/18158/4330/47642
   
 - Sonkar, S., Chen, X., Le, M., Liu, N., Mallick, D. B., & Baraniuk, R. (2024). Code soliloquies for accurate calculations in large language models. In Proceedings of the 14th Learning Analytics and Knowledge Conference (pp. 828–835). https://doi.org/10.1145/3636555.3636889
+  
+- Jiang, L., Belitz, C., & Bosch, N. (2024). Synthetic dataset generation for fairer unfairness research. In *Proceedings of the 14th Learning Analytics and Knowledge Conference* (pp. 200–209). https://doi.org/10.1145/3636555.3636868
+
+- Yan, L., Martinez-Maldonado, R., & Gašević, D. (2024). Generative artificial intelligence in learning analytics: Contextualising opportunities and challenges through the learning analytics cycle. In *Proceedings of the 14th Learning Analytics and Knowledge Conference* (pp. [page range]). Association for Computing Machinery.
   
 ### 2023
 - Chen Zhan, Oscar Blessed Deho, Xuwei Zhang, Srecko Joksimovic, and Maarten de Laat. 2023. Synthetic data generator for student data serving learning
