@@ -107,3 +107,16 @@ If you'd like to add new papers, fix broken links, or improve formatting, please
 This repository is released under the [Apache-2.0 license](LICENSE).
 ---
 ⭐ If you find this project useful, please consider giving it a **star** to help others discover it!
+
+## 📚 How to Cite
+
+If you use this repository in your research or teaching, please cite:
+
+```bibtex
+@misc{liu_awesome_synthetic_data_education,
+  author       = {Liu, Qinyi},
+  title        = {Awesome Synthetic Data Application for Education},
+  year         = {2026},
+  howpublished = {\url{https://github.com/YOUR_USERNAME/YOUR_REPO}},
+  note         = {GitHub repository}
+}
